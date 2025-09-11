@@ -1,1 +1,2 @@
-# Lab1 --- Edited with main branch
+# Lab1 --- Merge Conflict Resolved
+
