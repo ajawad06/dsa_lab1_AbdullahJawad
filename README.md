@@ -1,2 +1,3 @@
-\# Lab1 --- Edited with lab-tasks branch
+
+# Lab1 --- Merge Conflict resolved successfully
 
