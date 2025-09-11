@@ -4,6 +4,7 @@
 #include <vector>
 using namespace std;
 
+//Declare the function
 vector<int> findAllIndices(const int arr[], int size, int key);
 
 #endif

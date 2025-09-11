@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    //test output for the 3 defined tests
     int arr1[] = {1, 2, 3, 2, 4, 2};
     vector<int> test1= findAllIndices(arr1, 6, 2);
     cout << "Test 1: ";
